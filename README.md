@@ -1,5 +1,7 @@
 # renus
 
+[![CI](https://github.com/NakedClark/renus/actions/workflows/ci.yml/badge.svg)](https://github.com/NakedClark/renus/actions/workflows/ci.yml)
+
 Small, dependency-free string utilities for Node.js.
 
 ## Usage
